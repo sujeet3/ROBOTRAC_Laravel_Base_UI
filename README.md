@@ -22,3 +22,4 @@ php artisan serve
 Open http://127.0.0.1:8000
 
 Public pages intentionally exclude personal Aadhaar/PAN/family information.
+# ROBOTRAC_Laravel_Base_UI
